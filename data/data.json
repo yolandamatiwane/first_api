@@ -1,0 +1,130 @@
+{
+    "aboutMe":"My name is Yolanda Matiwane and I am a student at Life Choices",
+    "projects":[
+        {
+            "name":"Calculator",
+            "gitHub":"https://yolandamatiwane.github.io/calculatorLayout/",
+            "vercel":"https://calculator-layout-five.vercel.app/",
+            "description":"I used html and css",
+            "image":"url"
+        },
+        {
+            "name":"BMI Calculator",
+            "gitHub":"https://yolandamatiwane.github.io/bmiCalculator/",
+            "vercel":"https://bmi-calculator-rho-jet.vercel.app/",
+            "description":"I used html and css and javaScript",
+            "image":"url"
+        },
+        {
+            "name":"Area of Triangle",
+            "gitHub":"https://yolandamatiwane.github.io/areaTriangle/",
+            "vercel":"https://area-triangle-six.vercel.app/",
+            "description":"I used html and css",
+            "image":"url"
+        },
+        {
+            "name":"Temperature Converter",
+            "gitHub":"https://yolandamatiwane.github.io/temperatureConverter/",
+            "vercel":"https://temperature-converter-olive.vercel.app/",
+            "description":"I used html and css and js",
+            "image":"url"
+        },
+        {
+            "name":"RGBtoHex",
+            "gitHub":"https://yolandamatiwane.github.io/rgbToHex/",
+            "vercel":"https://rgb-to-hex-amber.vercel.app/",
+            "description":"I used html and css",
+            "image":"url"
+        }
+    ],
+    "education":[
+        {
+            "description":"Bootcamp",
+            "year":"2nd April - to present",
+            "institution":"Life Choices",
+            "contact":[
+                {
+                    "name":"Makhekhe",
+                    "contactDetails":""
+                }
+            ]
+        },
+        {
+            "description":"University",
+            "year":"2019- 2022",
+            "institution":"University of Cape Towan",
+            "contact":[
+                {
+                    "name":"Makhekhe",
+                    "contactDetails":""
+                }
+            ]
+        },
+        {
+            "description":"High School",
+            "year":"2013- 2019",
+            "institution":"Thandokhulu Secondary School",
+            "contact":[
+                {
+                    "name":"Mchunu",
+                    "contactDetails":""
+                }
+            ]
+        }
+    ],
+    "skills":[
+        {
+            "name":"html",
+            "image":"url"
+        },
+        {
+            "name":"css",
+            "image":"url"
+        }
+    ],
+    "workExperience":[
+        {
+            "placeOfWork":"WCDE",
+            "year":"10 days",
+            "description":"I was an examination assistant",
+            "contact":{
+                "name":"",
+                "cell":"",
+                "position":"",
+                "email":""
+            }
+        }
+    ],
+    "testimonails":[
+        {
+            "name":"Akhona",
+            "position":"",
+            "message":""
+        },
+        {
+            "name":"Lebu",
+            "position":"",
+            "message":""
+        },
+        {
+            "name":"Zizipho",
+            "position":"",
+            "message":""
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":""
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":""
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":""
+        },
+    ]
+}
