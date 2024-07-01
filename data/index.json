@@ -2,40 +2,48 @@
     "aboutMe":"My name is Yolanda Matiwane and I am a student at Life Choices",
     "projects":[
         {
-            "name":"Calculator",
-            "gitHub":"https://yolandamatiwane.github.io/calculatorLayout/",
-            "vercel":"https://calculator-layout-five.vercel.app/",
-            "description":"I used html and css",
-            "image":"url"
+            "name":"eCommerce",
+            "gitHub":"https://github.com/yolandamatiwane/projectEcomm",
+            "vercel":"https://project-ecomm-ruddy.vercel.app/",
+            "description":"This is my eCommerce store project, built with HTML, Bootstrap, CSS, and JavaScript. Inspired by my love for reading, I chose to create a bookstore. The project requirement was to enable cart functionality and calculate the total cost, which it successfully accomplishes. Despite encountering a few issues, I am proud of the outcome.",
+            "image":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20090227.png"
         },
         {
             "name":"BMI Calculator",
-            "gitHub":"https://yolandamatiwane.github.io/bmiCalculator/",
+            "gitHub":"https://github.com/yolandamatiwane/bmiCalculator",
             "vercel":"https://bmi-calculator-rho-jet.vercel.app/",
-            "description":"I used html and css and javaScript",
-            "image":"url"
-        },
-        {
-            "name":"Area of Triangle",
-            "gitHub":"https://yolandamatiwane.github.io/areaTriangle/",
-            "vercel":"https://area-triangle-six.vercel.app/",
-            "description":"I used html and css",
-            "image":"url"
+            "description":"I utilized HTML, Bootstrap, and JavaScript to develop a BMI calculator. Users can input their details, and the calculator computes their BMI, providing feedback on whether they fall into the underweight, healthy, or overweight category.",
+            "image":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20091118.png"
         },
         {
             "name":"Temperature Converter",
-            "gitHub":"https://yolandamatiwane.github.io/temperatureConverter/",
+            "gitHub":"https://github.com/yolandamatiwane/temperatureConverter",
             "vercel":"https://temperature-converter-olive.vercel.app/",
-            "description":"I used html and css and js",
-            "image":"url"
+            "description":"I designed a temperature converter using Bootstrap, HTML, and JavaScript. The converter features dropdown menus for selecting input and output units, enabling users to convert temperatures using the three most commonly used units: Celsius (°C), Fahrenheit (°F), and Kelvin (K).",
+            "image":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20091619.png"
         },
         {
-            "name":"RGBtoHex",
-            "gitHub":"https://yolandamatiwane.github.io/rgbToHex/",
-            "vercel":"https://rgb-to-hex-amber.vercel.app/",
-            "description":"I used html and css",
-            "image":"url"
+            "name":"Area of Triangle",
+            "gitHub":"https://github.com/yolandamatiwane/areaTriangle",
+            "vercel":"https://area-triangle-six.vercel.app/",
+            "description":"I developed an area calculator for triangles using HTML, which was styled using Bootstrap and CSS. Users can input the height and base of the triangle, and JavaScript calculates and displays the area accordingly.",
+            "image":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20101610.png"
+        },
+        {
+            "name":"Bootstrap Portfolio",
+            "gitHub":"https://github.com/yolandamatiwane/projectPortfolio",
+            "vercel":"https://project-portfolio-sable.vercel.app/",
+            "description":"My initial portfolio was built using HTML, CSS, and Bootstrap. It was a foundational project where I focused on creating a responsive and visually appealing website to showcase my skills in front-end design and layout. This project introduced me to Bootstrap's framework, enabling quicker development and consistent styling across various devices. It marked the beginning of my journey into web development, providing a solid foundation for future projects and ongoing learning in the field.",
+            "image":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4"
+        },
+        {
+            "name":"Interest Amount Calculator",
+            "gitHub":"https://github.com/yolandamatiwane/interestAmount",
+            "vercel":"https://interest-amount-seven.vercel.app/",
+            "description":"I developed an interest amount calculator using Bootstrap for styling, CSS for additional customization, and JavaScript for performing calculations. Users input the interest rate and principal amount, and the calculator computes and displays the accrued interest based on the input values.",
+            "image":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20113347.png"
         }
+
     ],
     "education":[
         {
@@ -44,18 +52,7 @@
             "institution":"Life Choices",
             "contact":[
                 {
-                    "name":"Makhekhe",
-                    "contactDetails":""
-                }
-            ]
-        },
-        {
-            "description":"University",
-            "year":"2019- 2022",
-            "institution":"University of Cape Towan",
-            "contact":[
-                {
-                    "name":"Makhekhe",
+                    "name":"Candice",
                     "contactDetails":""
                 }
             ]
@@ -64,6 +61,18 @@
             "description":"High School",
             "year":"2013- 2019",
             "institution":"Thandokhulu Secondary School",
+            "contact":[
+                {
+                    "name":"Mr Mchunu",
+                    "contactDetails":""
+                }
+            ]
+        },
+        {
+            
+            "description":"Primary School",
+            "year":"2007- 2012",
+            "institution":"Dryden Street Primary School",
             "contact":[
                 {
                     "name":"Mchunu",
