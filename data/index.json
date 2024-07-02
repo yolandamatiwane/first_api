@@ -9,7 +9,8 @@
             "visuals":{
                 "type":"image",
                 "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20090227.png"
-            }
+            },
+            "category":"javascript"
         },
         {
             "name":"BMI Calculator",
@@ -19,7 +20,8 @@
             "visuals":{
                 "type":"image",
                 "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20091118.png"
-            }
+            },
+            "category":"javascript"
         },
         {
             "name":"Temperature Converter",
@@ -29,7 +31,8 @@
             "visuals":{
                 "type":"image",
                 "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20091619.png"
-            }
+            },
+            "category":"javascript"
         },
         {
             "name":"Area of Triangle",
@@ -39,7 +42,8 @@
             "visuals":{
                 "type":"image",
                 "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20101610.png"
-            }
+            },
+            "category":"javascript"
         },
         {
             "name":"Bootstrap Portfolio",
@@ -49,7 +53,8 @@
             "visuals":{
                 "type":"video",
                 "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4"
-            }
+            },
+            "category":"bootstrap"
         },
         {
             "name":"Interest Amount Calculator",
@@ -59,7 +64,8 @@
             "visuals":{
                 "type":"image",
                 "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20113347.png"
-            }
+            },
+            "category":"javascript"
         }
 
     ],
