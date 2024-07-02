@@ -6,42 +6,60 @@
             "gitHub":"https://github.com/yolandamatiwane/projectEcomm",
             "vercel":"https://project-ecomm-ruddy.vercel.app/",
             "description":"This is my eCommerce store project, built with HTML, Bootstrap, CSS, and JavaScript. Inspired by my love for reading, I chose to create a bookstore. The project requirement was to enable cart functionality and calculate the total cost, which it successfully accomplishes. Despite encountering a few issues, I am proud of the outcome.",
-            "image":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20090227.png"
+            "visuals":{
+                "type":"image",
+                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20090227.png"
+            }
         },
         {
             "name":"BMI Calculator",
             "gitHub":"https://github.com/yolandamatiwane/bmiCalculator",
             "vercel":"https://bmi-calculator-rho-jet.vercel.app/",
             "description":"I utilized HTML, Bootstrap, and JavaScript to develop a BMI calculator. Users can input their details, and the calculator computes their BMI, providing feedback on whether they fall into the underweight, healthy, or overweight category.",
-            "image":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20091118.png"
+            "visuals":{
+                "type":"image",
+                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20091118.png"
+            }
         },
         {
             "name":"Temperature Converter",
             "gitHub":"https://github.com/yolandamatiwane/temperatureConverter",
             "vercel":"https://temperature-converter-olive.vercel.app/",
             "description":"I designed a temperature converter using Bootstrap, HTML, and JavaScript. The converter features dropdown menus for selecting input and output units, enabling users to convert temperatures using the three most commonly used units: Celsius (°C), Fahrenheit (°F), and Kelvin (K).",
-            "image":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20091619.png"
+            "visuals":{
+                "type":"image",
+                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20091619.png"
+            }
         },
         {
             "name":"Area of Triangle",
             "gitHub":"https://github.com/yolandamatiwane/areaTriangle",
             "vercel":"https://area-triangle-six.vercel.app/",
             "description":"I developed an area calculator for triangles using HTML, which was styled using Bootstrap and CSS. Users can input the height and base of the triangle, and JavaScript calculates and displays the area accordingly.",
-            "image":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20101610.png"
+            "visuals":{
+                "type":"image",
+                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20101610.png"
+            }
         },
         {
             "name":"Bootstrap Portfolio",
             "gitHub":"https://github.com/yolandamatiwane/projectPortfolio",
             "vercel":"https://project-portfolio-sable.vercel.app/",
             "description":"My initial portfolio was built using HTML, CSS, and Bootstrap. It was a foundational project where I focused on creating a responsive and visually appealing website to showcase my skills in front-end design and layout. This project introduced me to Bootstrap's framework, enabling quicker development and consistent styling across various devices. It marked the beginning of my journey into web development, providing a solid foundation for future projects and ongoing learning in the field.",
-            "image":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4"
+            "visuals":{
+                "type":"video",
+                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4"
+            }
         },
         {
             "name":"Interest Amount Calculator",
             "gitHub":"https://github.com/yolandamatiwane/interestAmount",
             "vercel":"https://interest-amount-seven.vercel.app/",
             "description":"I developed an interest amount calculator using Bootstrap for styling, CSS for additional customization, and JavaScript for performing calculations. Users input the interest rate and principal amount, and the calculator computes and displays the accrued interest based on the input values.",
-            "image":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20113347.png"
+            "visuals":{
+                "type":"image",
+                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20113347.png"
+            }
         }
 
     ],
@@ -49,91 +67,90 @@
         {
             "description":"Bootcamp",
             "year":"2nd April - to present",
-            "institution":"Life Choices",
-            "contact":[
-                {
-                    "name":"Candice",
-                    "contactDetails":""
-                }
-            ]
+            "institution":"Life Choices"
         },
         {
             "description":"High School",
             "year":"2013- 2019",
-            "institution":"Thandokhulu Secondary School",
-            "contact":[
-                {
-                    "name":"Mr Mchunu",
-                    "contactDetails":""
-                }
-            ]
+            "institution":"Thandokhulu Secondary School"
         },
         {
             
             "description":"Primary School",
             "year":"2007- 2012",
-            "institution":"Dryden Street Primary School",
-            "contact":[
-                {
-                    "name":"Mchunu",
-                    "contactDetails":""
-                }
-            ]
+            "institution":"Dryden Street Primary School"
         }
     ],
     "skills":[
         {
-            "name":"html",
-            "image":"url"
+            "name":"HTML",
+            "image":"https://yolandamatiwane.github.io/vueProjectImages/icons/icons8-html.gif"
         },
         {
-            "name":"css",
-            "image":"url"
+            "name":"JavaScript",
+            "image":"https://yolandamatiwane.github.io/vueProjectImages/icons/icons8-javascript.gif"
+        },
+        {
+            "name":"CSS",
+            "image":"https://yolandamatiwane.github.io/vueProjectImages/icons/css.gif"
+        },
+        {
+            "name":"VUE js",
+            "image":"https://yolandamatiwane.github.io/vueProjectImages/icons/icons8-vue-js-48.png"
         }
     ],
     "workExperience":[
         {
             "placeOfWork":"WCDE",
-            "year":"10 days",
+            "year":"2023",
             "description":"I was an examination assistant",
             "contact":{
-                "name":"",
-                "cell":"",
-                "position":"",
-                "email":""
+                "name":"Gabriella Fluers",
+                "position":"Examination Administration",
+                "email":"Gabriella.fleurs@westerncape.gov.za"
+            }
+        },
+        {
+            "placeOfWork":"Life Choices Studio",
+            "year":"2024",
+            "description":"Intern",
+            "contact":{
+                "name":"Life Choices",
+                "position":"something",
+                "email":"coding@lifechoices.co.za"
             }
         }
     ],
     "testimonails":[
         {
-            "name":"Akhona",
-            "position":"",
-            "message":""
+            "name":"Akhona Mjikelo",
+            "position":"Peer",
+            "message":"I have had the pleasure of knowing Yolanda, and throughout our time together, I have been continually impressed by her dedication, intelligence, and unwavering commitment to excellence. Yolanda approaches every task with determination and enthusiasm, never backing down from a challenge. Her passion for success is evident in everything she does, and her ability to overcome obstacles is truly inspiring. ",
+            "image":"https://yolandamatiwane.github.io/hostedImages/images/IMG-20240303-WA0008.jpg"
         },
         {
-            "name":"Lebu",
-            "position":"",
-            "message":""
+            "name":"Lebu Mtomboti",
+            "position":"Peer",
+            "message":"Yolanda is a true standout among us. Her dedication and expertise consistently shine through, making her an invaluable asset to our team.",
+            "image":"https://yolandamatiwane.github.io/hostedImages/images/20240422_120346.jpg"
         },
         {
-            "name":"Zizipho",
-            "position":"",
-            "message":""
+            "name":"Zizipho Cophiso",
+            "position":"Peer",
+            "message":"Yolanda is intelligent, insightful, and driven, She consistently impresses me with her depth of knowledge and strong work ethic. Her contributions to our discussions are thought-provoking and her dedication to academic excellence is truly inspiring. She is a valuable asset to our class and a role model for her peers",
+            "image":"https://yolandamatiwane.github.io/hostedImages/images/20240422_102501.jpg"
         },
         {
-            "name":"",
-            "position":"",
-            "message":""
+            "name":"Elvin Harris",
+            "position":"Peer",
+            "message":"Yolanda is a very humble and hardworking person. She is a good team player and can communicate very well. When faced with challenges, she doesn't back down, but stand tall. Her ability to maintain composure and excel in communication makes her an invaluable asset to any team.",
+            "image":"https://yolandamatiwane.github.io/hostedImages/images/Elvin-body.jpg"
         },
         {
-            "name":"",
-            "position":"",
-            "message":""
-        },
-        {
-            "name":"",
-            "position":"",
-            "message":""
+            "name":"Mathew Brown",
+            "position":"Lecturer",
+            "message":"She is dedicated to learning and enthusiastic about learning new work.",
+            "image":"https://yolandamatiwane.github.io/hostedImages/images/Matthew%20(1).png"
         }
     ]
 }
