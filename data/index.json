@@ -66,19 +66,7 @@
                 "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-04%20094513.png"
             },
             "category":"bootstrap"
-        },
-        {
-            "name":"Keyboard Layout",
-            "gitHub":"https://github.com/yolandamatiwane/keyboard",
-            "vercel":"https://keyboard-lime.vercel.app/",
-            "description":"This project features a custom keyboard layout built using HTML and CSS. It showcases visually appealing keys styled with CSS, offering interactivity typical of a virtual keyboard. It demonstrates creative CSS design for user interfaces, emphasizing both aesthetic appeal and practical web development skills",
-            "visuals":{
-                "type":"image",
-                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-04%20093509.png"
-            },
-            "category":"css"
         }
-
     ],
     "education":[
         {
