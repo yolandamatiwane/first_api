@@ -78,34 +78,44 @@
             "description":"High School",
             "year":"2013- 2019",
             "institution":"Thandokhulu Secondary School"
-        },
-        {
-            
-            "description":"Primary School",
-            "year":"2007- 2012",
-            "institution":"Dryden Street Primary School"
         }
     ],
     "skills":[
         {
             "name":"HTML",
-            "image":"https://yolandamatiwane.github.io/vueProjectImages/icons/icons8-html.gif"
+            "image":""
         },
         {
             "name":"JavaScript",
-            "image":"https://yolandamatiwane.github.io/vueProjectImages/icons/icons8-javascript.gif"
+            "image":""
         },
         {
             "name":"CSS",
-            "image":"https://yolandamatiwane.github.io/vueProjectImages/icons/css.gif"
+            "image":""
         },
         {
             "name":"VUE js",
-            "image":"https://yolandamatiwane.github.io/vueProjectImages/icons/icons8-vue-js-48.png"
+            "image":""
+        },
+        {
+            "name":"Bootstrap",
+            "image":""
+        },
+        {
+            "name":"Node js",
+            "image":""
         }
     ],
     "workExperience":[
         {
+            "placeOfWork":"Life Choices Studio",
+            "year":"September 2024 - present",
+            "description":"I am an intern",
+            "contact":{
+                "name":""
+            }
+        }
+        ,{
             "placeOfWork":"WCDE",
             "year":"2023",
             "description":"I was an examination assistant",
