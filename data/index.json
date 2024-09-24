@@ -82,6 +82,18 @@
     ],
     "skills":[
         {
+            "name":"Bootstrap",
+            "image":""
+        },
+        {
+            "name":"CSS",
+            "image":""
+        },
+        {
+            "name":"figma",
+            "image":""
+        },
+        {
             "name":"HTML",
             "image":""
         },
@@ -90,19 +102,15 @@
             "image":""
         },
         {
-            "name":"CSS",
-            "image":""
-        },
-        {
-            "name":"VUE js",
-            "image":""
-        },
-        {
-            "name":"Bootstrap",
+            "name":"mySQL",
             "image":""
         },
         {
             "name":"Node js",
+            "image":""
+        },
+        {
+            "name":"VUE js",
             "image":""
         }
     ],
