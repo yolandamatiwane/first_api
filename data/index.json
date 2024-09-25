@@ -2,6 +2,17 @@
     "aboutMe":"My name is Yolanda Matiwane and I am a student at Life Choices",
     "projects":[
         {
+            "name":"Comfort Corner: Social Media App",
+            "gitHub":"https://github.com/yolandamatiwane/socialMedia",
+            "vercel":"https://capstoneprojectsm-a49d2.web.app/login",
+            "description":"For my capstone project, I developed Comfort Corner, a social media application aimed at providing a safe space for individuals experiencing grief. Utilizing MySQL and Node.js for the backend and Vue.js 3 for the frontend, the app facilitates meaningful connections among users who share similar experiences. Comfort Corner not only fosters community support but also offers valuable resources to help users navigate their grief journey. This project reflects my commitment to creating empathetic digital spaces that prioritize user well-being.",
+            "visuals":{
+                "type":"image",
+                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20090227.png"
+            },
+            "category":"javascript"
+        },
+        {
             "name":"eCommerce",
             "gitHub":"https://github.com/yolandamatiwane/projectEcomm",
             "vercel":"https://project-ecomm-ruddy.vercel.app/",
@@ -35,17 +46,6 @@
             "category":"javascript"
         },
         {
-            "name":"Area of Triangle",
-            "gitHub":"https://github.com/yolandamatiwane/areaTriangle",
-            "vercel":"https://area-triangle-six.vercel.app/",
-            "description":"I developed an area calculator for triangles using HTML, which was styled using Bootstrap and CSS. Users can input the height and base of the triangle, and JavaScript calculates and displays the area accordingly.",
-            "visuals":{
-                "type":"image",
-                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20101610.png"
-            },
-            "category":"javascript"
-        },
-        {
             "name":"Interest Amount Calculator",
             "gitHub":"https://github.com/yolandamatiwane/interestAmount",
             "vercel":"https://interest-amount-seven.vercel.app/",
@@ -71,8 +71,14 @@
     "education":[
         {
             "description":"Bootcamp",
-            "year":"2nd April - September",
+            "year":"2nd April 2024 - September 2024",
             "institution":"Life Choices"
+        },
+        {
+            "description":"Studied Astrophysics & Physics",
+            "year":"2020- 2023",
+            "institution":"University of Cape Town"
+        }
         },
         {
             "description":"High School",
