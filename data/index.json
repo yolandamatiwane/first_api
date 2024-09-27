@@ -2,7 +2,7 @@
     "aboutMe":"My name is Yolanda Matiwane and I am a student at Life Choices",
     "projects":[
         {
-            "name":"Comfort Corner: Social Media App",
+            "name":"Comfort Corner: Social Media",
             "gitHub":"https://github.com/yolandamatiwane/socialMedia",
             "vercel":"https://capstoneprojectsm-a49d2.web.app/login",
             "description":"For my capstone project, I developed Comfort Corner, a social media application aimed at providing a safe space for individuals experiencing grief. Utilizing MySQL and Node.js for the backend and Vue.js 3 for the frontend, the app facilitates meaningful connections among users who share similar experiences. Comfort Corner not only fosters community support but also offers valuable resources to help users navigate their grief journey. This project reflects my commitment to creating empathetic digital spaces that prioritize user well-being.",
