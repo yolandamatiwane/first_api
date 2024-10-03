@@ -8,7 +8,7 @@
             "description":"For my capstone project, I developed Comfort Corner, a social media application aimed at providing a safe space for individuals experiencing grief. Utilizing MySQL and Node.js for the backend and Vue.js 3 for the frontend, the app facilitates meaningful connections among users who share similar experiences. Comfort Corner not only fosters community support but also offers valuable resources to help users navigate their grief journey. This project reflects my commitment to creating empathetic digital spaces that prioritize user well-being.",
             "visuals":{
                 "type":"image",
-                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20090227.png"
+                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/10_2_2024%2010_12_12%20PM.png"
             },
             "category":"javascript"
         },
@@ -81,7 +81,7 @@
         },
         {
             "description":"High School",
-            "year":"2013- 2019",
+            "year":"2013- 2018",
             "institution":"Thandokhulu Secondary School"
         }
     ],
