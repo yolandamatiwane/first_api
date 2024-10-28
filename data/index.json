@@ -70,6 +70,11 @@
     ],
     "education":[
         {
+            "description":"Attended AWS Cloud Computing sessions",
+            "year":"30 September - 11 October 2024",
+            "institution":"AWS Skill Center"
+        },
+        {
             "description":"Bootcamp",
             "year":"2nd April 2024 - September 2024",
             "institution":"Life Choices"
@@ -120,6 +125,22 @@
         }
     ],
     "workExperience":[
+        {
+            "placeOfWork":"Life Choices Studio",
+            "year":"14 October-18 October 2024",
+            "description":"UI/UX design Hackaton",
+            "contact":{
+                "name":""
+            }
+        },
+        {
+            "placeOfWork":"Life Choices Studio",
+            "year":"21 October-25 October 2024",
+            "description":"Scrum Master in Scrum Hackathon",
+            "contact":{
+                "name":""
+            }
+        },
         {
             "placeOfWork":"Life Choices Studio",
             "year":"September 2024 - present",
