@@ -13,6 +13,17 @@
             "category":"javascript"
         },
         {
+            "name":"KyYola: eCommerce",
+            "gitHub":"https://github.com/yolandamatiwane/node-project",
+            "vercel":"https://kyyola-node-eomp.web.app/",
+            "description":"In this group project, I managed the backend development, creating functional endpoints for essential product operations. I implemented routes that allowed for adding and removing products, retrieving details for individual products by ID, and accessing comprehensive product information. This backend setup provided a seamless foundation for efficient data management and enhanced the overall functionality of our application.",
+            "visuals":{
+                "type":"image",
+                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/10_2_2024%2010_12_12%20PM.png"
+            },
+            "category":"javascript"
+        },
+        {
             "name":"eCommerce",
             "gitHub":"https://github.com/yolandamatiwane/projectEcomm",
             "vercel":"https://project-ecomm-ruddy.vercel.app/",
@@ -75,13 +86,13 @@
             "institution":"Life Choices"
         },
         {
-            "description":"Studied Astrophysics & Physics",
-            "year":"2020- 2023",
+            "description":"Studied Astrophysics & Physics || Applied Mathematics & Mathematics",
+            "year":"February 2020 - November 2023",
             "institution":"University of Cape Town"
         },
         {
             "description":"High School",
-            "year":"2013- 2018",
+            "year":"January 2013- November 2018",
             "institution":"Thandokhulu Secondary School"
         }
     ],
@@ -116,6 +127,10 @@
         },
         {
             "name":"VUE js",
+            "image":""
+        },
+        {
+            "name":"Python",
             "image":""
         }
     ],
