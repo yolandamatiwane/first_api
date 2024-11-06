@@ -35,13 +35,13 @@
             "category":"javascript"
         },
         {
-            "name":"BMI Calculator",
-            "gitHub":"https://github.com/yolandamatiwane/bmiCalculator",
-            "vercel":"https://bmi-calculator-rho-jet.vercel.app/",
-            "description":"I utilized HTML, Bootstrap, and JavaScript to develop a BMI calculator. Users can input their details, and the calculator computes their BMI, providing feedback on whether they fall into the underweight, healthy, or overweight category.",
+            "name":"Interest Amount Calculator",
+            "gitHub":"https://github.com/yolandamatiwane/interestAmount",
+            "vercel":"https://interest-amount-seven.vercel.app/",
+            "description":"I developed an interest amount calculator using Bootstrap for styling, CSS for additional customization, and JavaScript for performing calculations. Users input the interest rate and principal amount, and the calculator computes and displays the accrued interest based on the input values.",
             "visuals":{
                 "type":"image",
-                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20091118.png"
+                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20113347.png"
             },
             "category":"javascript"
         },
@@ -53,17 +53,6 @@
             "visuals":{
                 "type":"image",
                 "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20091619.png"
-            },
-            "category":"javascript"
-        },
-        {
-            "name":"Interest Amount Calculator",
-            "gitHub":"https://github.com/yolandamatiwane/interestAmount",
-            "vercel":"https://interest-amount-seven.vercel.app/",
-            "description":"I developed an interest amount calculator using Bootstrap for styling, CSS for additional customization, and JavaScript for performing calculations. Users input the interest rate and principal amount, and the calculator computes and displays the accrued interest based on the input values.",
-            "visuals":{
-                "type":"image",
-                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20113347.png"
             },
             "category":"javascript"
         },
