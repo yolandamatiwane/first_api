@@ -83,7 +83,8 @@
         {
             "description":"Attended AWS Cloud Computing sessions",
             "year":"30 September - 11 October 2024",
-            "institution":"AWS Skill Center"
+            "institution":"AWS Skill Center",
+            "img":""
         },
         {
             "description":"Bootcamp",
@@ -95,13 +96,13 @@
             "description":"Studied Astrophysics & Physics || Applied Mathematics & Mathematics",
             "year":"February 2020 - November 2023",
             "institution":"University of Cape Town",
-            "img":""
+            "img":"https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/University_of_Cape_Town_logo.svg/1200px-University_of_Cape_Town_logo.svg.png"
         },
         {
             "description":"High School",
             "year":"January 2013- November 2018",
             "institution":"Thandokhulu Secondary School",
-            "img":""
+            "img":"https://thandokhuluhs.wordpress.com/wp-content/uploads/2017/02/cropped-logotransparent.jpg?w=240"
         }
     ],
     "skills":[
@@ -147,14 +148,16 @@
             "placeOfWork":"Life Choices Studio",
             "year":"14 October-18 October 2024",
             "description":"UI/UX design Hackaton",
+            "img":"https://files.slack.com/files-pri/T02LW4RMXJQ-F07UP4P89CZ/uiux.png",
             "contact":{
-                "name":""
+                "name":"https://files.slack.com/files-pri/T02LW4RMXJQ-F07UP4P89CZ/uiux.png"
             }
         },
         {
             "placeOfWork":"Life Choices Studio",
             "year":"21 October-25 October 2024",
             "description":"Scrum Master in Scrum Hackathon",
+            "img":"https://files.slack.com/files-tmb/T02LW4RMXJQ-F07TVTRH3AT-84cc8b4834/scrum_480.png",
             "contact":{
                 "name":""
             }
