@@ -83,17 +83,20 @@
         {
             "description":"Bootcamp",
             "year":"2nd April 2024 - September 2024",
-            "institution":"Life Choices"
+            "institution":"Life Choices",
+            "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FLifeChoicesZA%2F&psig=AOvVaw00Tjeno0MEINwiizyHjxAo&ust=1730923913828000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCijLaGx4kDFQAAAAAdAAAAABAE"
         },
         {
             "description":"Studied Astrophysics & Physics || Applied Mathematics & Mathematics",
             "year":"February 2020 - November 2023",
-            "institution":"University of Cape Town"
+            "institution":"University of Cape Town",
+            "img":""
         },
         {
             "description":"High School",
             "year":"January 2013- November 2018",
-            "institution":"Thandokhulu Secondary School"
+            "institution":"Thandokhulu Secondary School",
+            "img":""
         }
     ],
     "skills":[
@@ -139,6 +142,7 @@
             "placeOfWork":"Life Choices Studio",
             "year":"September 2024 - present",
             "description":"I am an intern",
+            "img":"https://lcstudio.co.za/wp-content/uploads/2023/09/logo-e16",
             "contact":{
                 "name":""
             }
@@ -147,6 +151,7 @@
             "placeOfWork":"WCDE",
             "year":"2023",
             "description":"I was an examination assistant",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0MzB5sCzxz-Y0x-rCGqk315KTTOEL1-8s5WZz8Z6UhHnhMG4-gsowqGeUAqaWsK-HRw&usqp=CAU",
             "contact":{
                 "name":"Gabriella Fluers",
                 "position":"Examination Administration",
