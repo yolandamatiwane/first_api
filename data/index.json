@@ -135,21 +135,39 @@
     "badges":[
         {
             "placeOfWork":"Life Choices Studio",
-            "year":"14 October-18 October 2024",
-            "description":"UI/UX design Hackaton",
-            "img":"https://files.slack.com/files-pri/T02LW4RMXJQ-F07UP4P89CZ/uiux.png",
-            "contact":{
-                "name":"https://files.slack.com/files-pri/T02LW4RMXJQ-F07UP4P89CZ/uiux.png"
-            }
+            "year":"November 2024",
+            "description":"Ethical Hacker",
+            "img":"https://yolandamatiwane.github.io/vueProjectImages/LogosBadges/ethicalHacker.png"
+        },
+        {
+            "placeOfWork":"Life Choices Studio",
+            "year":"November 2024",
+            "description":"Cybersecurity Essentials",
+            "img":"https://yolandamatiwane.github.io/vueProjectImages/LogosBadges/cyberEssentials.png"
+        },
+        {
+            "placeOfWork":"Life Choices Studio",
+            "year":"September 2024",
+            "description":"Linux Unhatched",
+            "img":"https://yolandamatiwane.github.io/vueProjectImages/LogosBadges/linux-unhatched.png"
+        },
+        {
+            "placeOfWork":"Life Choices Studio",
+            "year":"September 2024",
+            "description":"CISCO Operation Systems Basics",
+            "img":"https://yolandamatiwane.github.io/vueProjectImages/LogosBadges/os.png"
         },
         {
             "placeOfWork":"Life Choices Studio",
             "year":"21 October-25 October 2024",
-            "description":"Scrum Master in Scrum Hackathon",
-            "img":"https://files.slack.com/files-tmb/T02LW4RMXJQ-F07TVTRH3AT-84cc8b4834/scrum_480.png",
-            "contact":{
-                "name":""
-            }
+            "description":"Scrum Hackathon",
+            "img":"https://yolandamatiwane.github.io/vueProjectImages/LogosBadges/SCRUM_processed.png"
+        },
+        {
+            "placeOfWork":"Life Choices Studio",
+            "year":"14 October-18 October 2024",
+            "description":"UI/UX design Hackaton",
+            "img":"https://yolandamatiwane.github.io/vueProjectImages/LogosBadges/UIUX_processed.png"
         }
     ]
     ,
