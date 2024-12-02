@@ -145,17 +145,18 @@
             "description":"Cybersecurity Essentials",
             "img":"https://yolandamatiwane.github.io/vueProjectImages/LogosBadges/cyberEssentials.png"
         },
-        {
-            "placeOfWork":"Life Choices Studio",
-            "year":"September 2024",
-            "description":"Linux Unhatched",
-            "img":"https://yolandamatiwane.github.io/vueProjectImages/LogosBadges/linux-unhatched.png"
-        },
+        
         {
             "placeOfWork":"Life Choices Studio",
             "year":"September 2024",
             "description":"CISCO Operation Systems Basics",
             "img":"https://yolandamatiwane.github.io/vueProjectImages/LogosBadges/os.png"
+        },
+        {
+            "placeOfWork":"Life Choices Studio",
+            "year":"September 2024",
+            "description":"Linux Unhatched",
+            "img":"https://yolandamatiwane.github.io/vueProjectImages/LogosBadges/linux-unhatched.png"
         },
         {
             "placeOfWork":"Life Choices Studio",
