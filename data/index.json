@@ -109,7 +109,7 @@
         },
         {
             "name":"JavaScript",
-            "image":""
+            "image":"https://yolandamatiwane.github.io/vueProjectImages/icons/icons8-javascript.gif"
         },
         {
             "name":"mySQL",
@@ -124,7 +124,7 @@
             "image":""
         }
     ],
-    "workExperience":[
+    "badges":[
         {
             "placeOfWork":"Life Choices Studio",
             "year":"14 October-18 October 2024",
@@ -140,7 +140,11 @@
             "contact":{
                 "name":""
             }
-        },
+        }
+    ]
+    ,
+
+    "workExperience":[
         {
             "placeOfWork":"Life Choices Studio",
             "year":"September 2024 - present",
