@@ -24,17 +24,6 @@
             "category":"javascript"
         },
         {
-            "name":"eCommerce",
-            "gitHub":"https://github.com/yolandamatiwane/projectEcomm",
-            "vercel":"https://project-ecomm-ruddy.vercel.app/",
-            "description":"This is my eCommerce store project, built with HTML, Bootstrap, CSS, and JavaScript. Inspired by my love for reading, I chose to create a bookstore. The project requirement was to enable cart functionality and calculate the total cost, which it successfully accomplishes. Despite encountering a few issues, I am proud of the outcome.",
-            "visuals":{
-                "type":"image",
-                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20090227.png"
-            },
-            "category":"javascript"
-        },
-        {
             "name":"Interest Amount Calculator",
             "gitHub":"https://github.com/yolandamatiwane/interestAmount",
             "vercel":"https://interest-amount-seven.vercel.app/",
@@ -55,17 +44,6 @@
                 "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-01%20091619.png"
             },
             "category":"javascript"
-        },
-        {
-            "name":"Bootstrap Portfolio",
-            "gitHub":"https://github.com/yolandamatiwane/projectPortfolio",
-            "vercel":"https://project-portfolio-sable.vercel.app/",
-            "description":"My initial portfolio was built using HTML, CSS, and Bootstrap. It was a foundational project where I focused on creating a responsive and visually appealing website to showcase my skills in front-end design and layout. ",
-            "visuals":{
-                "type":"image",
-                "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/Screenshot%202024-07-04%20094513.png"
-            },
-            "category":"bootstrap"
         }
     ],
     "education":[
