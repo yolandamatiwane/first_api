@@ -5,7 +5,7 @@
             "name":"Comfort Corner: Social Media",
             "gitHub":"https://github.com/yolandamatiwane/socialMedia",
             "vercel":"https://capstoneprojectsm-a49d2.web.app/login",
-            "description":"For my capstone project, I developed Comfort Corner, a social media application aimed at providing a safe space for individuals experiencing grief. Utilizing MySQL and Node.js for the backend and Vue.js 3 for the frontend, the app facilitates meaningful connections among users who share similar experiences.",
+            "description":"For my capstone project, I developed Comfort Corner, a social media application aimed at providing a safe space for individuals experiencing grief. Utilizing MySQL and Node.js for the backend and Vue.js 3 for the frontend, the app facilitates meaningful connections among users who share similar experiences. Features include, a search function , user profiles, posting, editing , deleting content, log out and delete account... and for admin the ability to delete all user content. Feel free to create an account or log in using; email: ng@gmail.com, password: Inathi",
             "visuals":{
                 "type":"image",
                 "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/10_2_2024%2010_12_12%20PM.png"
@@ -168,44 +168,6 @@
                 "position":"Examination Administration",
                 "email":"Gabriella.fleurs@westerncape.gov.za"
             }
-        }
-    ],
-    "testimonails":[
-        {
-            "name":"Akhona Mjikelo",
-            "position":"Peer",
-            "message":"I have had the pleasure of knowing Yolanda, and throughout our time together, I have been continually impressed by her dedication, intelligence, and unwavering commitment to excellence. Yolanda approaches every task with determination and enthusiasm, never backing down from a challenge. Her passion for success is evident in everything she does, and her ability to overcome obstacles is truly inspiring. ",
-            "image":"https://yolandamatiwane.github.io/hostedImages/images/IMG-20240303-WA0008.jpg"
-        },
-        {
-            "name":"Lebu Mtomboti",
-            "position":"Peer",
-            "message":"Yolanda is a true standout among us. Her dedication and expertise consistently shine through, making her an invaluable asset to our team.",
-            "image":"https://yolandamatiwane.github.io/hostedImages/images/20240422_120346.jpg"
-        },
-        {
-            "name":"Zizipho Cophiso",
-            "position":"Peer",
-            "message":"Yolanda is intelligent, insightful, and driven, She consistently impresses me with her depth of knowledge and strong work ethic. Her contributions to our discussions are thought-provoking and her dedication to academic excellence is truly inspiring. She is a valuable asset to our class and a role model for her peers",
-            "image":"https://yolandamatiwane.github.io/hostedImages/images/20240422_102501.jpg"
-        },
-        {
-            "name":"Elvin Harris",
-            "position":"Peer",
-            "message":"Yolanda is a very humble and hardworking person. She is a good team player and can communicate very well. When faced with challenges, she doesn't back down, but stand tall. Her ability to maintain composure and excel in communication makes her an invaluable asset to any team.",
-            "image":"https://yolandamatiwane.github.io/hostedImages/images/Elvin-body.jpg"
-        },
-        {
-            "name":"Matthew Brown",
-            "position":"Lecturer",
-            "message":"She is dedicated to learning and enthusiastic about learning new work.",
-            "image":"https://yolandamatiwane.github.io/hostedImages/images/Matthew%20(1).png"
-        },
-        {
-            "name":"Nikilita Kakaza",
-            "position":"Peer",
-            "message":"Yolanda brings positivity to the workplace. Even during tough times, she maintains an optimistic outlook, motivating others and creating a pleasant atmosphere. Yolanda approaches challenges with ingenuity. She thinks outside the box, propose innovative solutions, and adapt well to unexpected situations. Her creativity adds value to the team.",
-            "image":"https://yolandamatiwane.github.io/vueProjectImages/image.png"
         }
     ]
 }
