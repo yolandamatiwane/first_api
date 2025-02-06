@@ -5,7 +5,7 @@
             "name":"Comfort Corner: Social Media",
             "gitHub":"https://github.com/yolandamatiwane/socialMedia",
             "vercel":"https://capstoneprojectsm-a49d2.web.app/login",
-            "description":"For my capstone project, I developed Comfort Corner, a social media application aimed at providing a safe space for individuals experiencing grief. Utilizing MySQL and Node.js for the backend and Vue.js 3 for the frontend, the app facilitates meaningful connections among users who share similar experiences. Features include, a search function , user profiles, posting, editing , deleting content, log out and delete account... and for admin the ability to delete all user content. Feel free to create an account or log in using; email: ng@gmail.com, password: Inathi",
+            "description":"For my capstone project, I developed Comfort Corner, a social media application aimed at providing a safe space for individuals experiencing grief. Utilizing MySQL and Node.js for the backend and Vue.js 3 for the frontend, the app facilitates meaningful connections among users who share similar experiences. Features include, a search function , user profiles, posting, editing , deleting content, log out and delete account... and for admin the ability to delete all user content. Feel free to create an account or log in using; email: ym@gmail.com, password: yolanda",
             "visuals":{
                 "type":"image",
                 "url":"https://yolandamatiwane.github.io/vueProjectImages/projects%20images/10_2_2024%2010_12_12%20PM.png"
